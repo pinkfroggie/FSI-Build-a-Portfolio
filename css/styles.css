@@ -1,0 +1,29 @@
+.h1 {
+    font-size: 200%;
+    color: #FFBDD8;
+    text-align: center;
+    }
+
+p.a {
+    text-align: center
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.a {
+    font-family: Verdana;
+    text-align: center;
+    }
+
+.btn {
+    padding: 10px;
+    color: white;}
+
+
+.btn-1 {background-color: #FFC8BA;}
+.btn-2 {background-color: #B5D8EB;}
+.btn-3 {background-color: #E3AAD6;}
